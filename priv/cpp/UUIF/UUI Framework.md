@@ -2,5 +2,5 @@
 
 ## Elements
 - [[Core]]
-- Widget
+- [[Widgets#Base Widget]]
 - Window
